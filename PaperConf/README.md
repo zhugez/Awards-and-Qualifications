@@ -7,10 +7,10 @@ Published "Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification
 - Link: [Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification](https://ssrc.fit.iuh.edu.vn/conf/article/view/267)
 
 ### Biometric Identification Through Auditory EEG Signatures
-**AISEI 2026 — First Author — Presented**
+**AISEI 2026 — First Author — Published (IEEE)**
 
-Presented "Biometric Identification Through Auditory EEG Signatures" at the AISEI 2026 Conference as First Author, developing an EEG-based biometric identification pipeline driven by auditory-evoked responses for subject-level authentication.
-- Link: [Biometric Identification Through Auditory EEG Signatures](#) <!-- TODO: thêm URL -->
+L. N. Vu, H. C. Bang, N. M. Hanh and B. T. N. Tran, "Biometric identification through auditory EEG signatures," in *2026 International Conference on Artificial Intelligence for Sustainable Engineering and Innovation (AISEI)*, IEEE, 2026, pp. 158–163. doi: [10.1109/AISEI68628.2026.11572950](https://doi.org/10.1109/AISEI68628.2026.11572950)
+- Link: [Biometric Identification Through Auditory EEG Signatures](https://doi.org/10.1109/AISEI68628.2026.11572950)
 - Files:
   - [`AISEI26/1571237682.pdf`](./AISEI26/1571237682.pdf)
   - [`AISEI26/m37682-vu final.pdf`](./AISEI26/m37682-vu%20final.pdf)
@@ -36,6 +36,6 @@ Presented first-author research on malware detection using machine learning and 
 | Title | Venue | Year | Role / Award |
 |-------|-------|------|--------------|
 | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | SSRC | 2026 | First Author |
-| Biometric Identification Through Auditory EEG Signatures | AISEI | 2026 | First Author |
+| Biometric Identification Through Auditory EEG Signatures | AISEI | 2026 | First Author (Published, IEEE) |
 | Biometric Identification through Auditory EEG Signatures | YSC | 2025 | Consolation Prize |
 | Malware Detection using ML/DL | ATC | 2024 | First Author |
