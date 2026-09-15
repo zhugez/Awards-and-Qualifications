@@ -6,6 +6,11 @@
 Published "Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification" at SSRC 2026 as First Author, proposing a spoof-resistant EEG biometric authentication framework using WaveNet+Mamba multimodal fusion and gated self-attention under noisy open-set conditions.
 - Link: [Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification](https://ssrc.fit.iuh.edu.vn/conf/article/view/267)
 
+### Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification
+**APSIPA ASC 2026 — First Author — Accepted**
+
+Paper #1571295101 accepted at APSIPA ASC 2026. Camera-ready manuscript in progress (IEEE PDF eXpress approval + EDAS upload), deadline 20 August 2026.
+
 ### Biometric Identification Through Auditory EEG Signatures
 **AISEI 2026 — First Author — Published (IEEE)**
 
@@ -36,6 +41,7 @@ Presented first-author research on malware detection using machine learning and 
 | Title | Venue | Year | Role / Award |
 |-------|-------|------|--------------|
 | Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | SSRC | 2026 | First Author |
+| Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | APSIPA ASC | 2026 | First Author (Accepted, camera-ready pending) |
 | Biometric Identification Through Auditory EEG Signatures | AISEI | 2026 | First Author (Published, IEEE) |
 | Biometric Identification through Auditory EEG Signatures | YSC | 2025 | Consolation Prize |
 | Malware Detection using ML/DL | ATC | 2024 | First Author |
