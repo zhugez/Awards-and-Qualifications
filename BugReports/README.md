@@ -22,9 +22,9 @@ Security vulnerability research and responsible disclosure reports.
 ### IUH
 | ID | Vulnerability Type | Severity | Platform | Status |
 |---|---|---|---|---|
-| IUH-01 | Reflected XSS | — | IUH | Validated |
-| IUH-02 | Sensitive Credential Leak (Gitleaks) | — | IUH | Validated |
-| IUH-03 | Sensitive File Exposure | — | IUH | Validated |
+| IUH-01 | Reflected XSS | Medium (6.9) | IUH | Validated |
+| IUH-02 | Sensitive Credential Leak (Gitleaks) | High (8.7) | IUH | Validated |
+| IUH-03 | Sensitive File Exposure | High (8.7) | IUH | Validated |
 
 ---
 
