@@ -6,14 +6,23 @@ Security vulnerability research and responsible disclosure reports.
 
 ## Findings
 
-| # | Target | Type | Severity | Platform | Status |
-|---|--------|------|----------|----------|--------|
-| 1 | Upsell Order Bump Offer for WooCommerce | Broken Access Control | Medium | Patchstack | Validated |
-| 2 | Telegram for Android | Native C++ Integer Truncation — File Descriptor Sandbox Bypass | High (7.5) | Telegram Bug Bounty | Submitted |
-| 3 | Telegram for Android | Unauthenticated OAuth Token Redirect via Exported Intent | High (7.1) | Telegram Bug Bounty | Submitted |
-| 4 | Telegram for Android | Pre-Passcode Account Switch via Unclamped Intent Extra | Medium (5.5) | Telegram Bug Bounty | Submitted |
-| 5 | Telegram for Android | Local Denial of Service via Exported Service | Medium (5.5) | Telegram Bug Bounty | Submitted |
-| 6 | IUH | See report | — | IUH | Submitted |
+### Upsell Order Bump Offer for WooCommerce
+| ID | Vulnerability Type | Severity | Platform | Status |
+|---|---|---|---|---|
+| — | Broken Access Control | Medium | Patchstack | Validated |
+
+### Telegram for Android
+| ID | Vulnerability Type | Severity | Platform | Status |
+|---|---|---|---|---|
+| TG-01 | Native C++ Integer Truncation — File Descriptor Sandbox Bypass | High (7.5) | Telegram Bug Bounty | Submitted |
+| TG-02 | Unauthenticated OAuth Token Redirect via Exported Intent | High (7.1) | Telegram Bug Bounty | Submitted |
+| TG-03 | Pre-Passcode Account Switch via Unclamped Intent Extra | Medium (5.5) | Telegram Bug Bounty | Submitted |
+| TG-04 | Local Denial of Service via Exported Service | Medium (5.5) | Telegram Bug Bounty | Submitted |
+
+### IUH
+| ID | Vulnerability Type | Severity | Platform | Status |
+|---|---|---|---|---|
+| — | See report | — | IUH | Validated |
 
 ---
 
