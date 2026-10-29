@@ -11,6 +11,11 @@ Security vulnerability research and responsible disclosure reports.
 |---|---|---|---|---|
 | — | Broken Access Control | Medium | Patchstack | Validated |
 
+### Undisclosed Commercial WordPress CRM Plugin
+| ID | Vulnerability Type | Severity | Platform | Status |
+|---|---|---|---|---|
+| — | Broken Access Control | Medium | Patchstack | Validated |
+
 ### Telegram for Android
 | ID | Vulnerability Type | Severity | Platform | Status |
 |---|---|---|---|---|
