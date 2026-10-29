@@ -11,6 +11,11 @@ Security vulnerability research and responsible disclosure reports.
 |---|---|---|---|---|
 | — | Broken Access Control | Medium | Patchstack | Validated |
 
+### Computer Repair Shop (CRM WordPress Plugin – RepairBuddy) <= 4.1234
+| ID | Vulnerability Type | Severity | Platform | Status |
+|---|---|---|---|---|
+| — | Broken Access Control | Medium | Patchstack | Validated |
+
 ### Telegram for Android
 | ID | Vulnerability Type | Severity | Platform | Status |
 |---|---|---|---|---|
