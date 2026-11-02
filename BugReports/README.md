@@ -16,6 +16,11 @@ Security vulnerability research and responsible disclosure reports.
 |---|---|---|---|---|
 | — | Broken Access Control | Medium | Patchstack | Validated |
 
+### Motors – Car Dealership & Classified Listings Plugin
+| ID | Vulnerability Type | Severity | Platform | Status |
+|---|---|---|---|---|
+| — | Broken Access Control | Not provided | Patchstack | Validated; pending public disclosure |
+
 ### Telegram for Android
 | ID | Vulnerability Type | Severity | Platform | Status |
 |---|---|---|---|---|
@@ -37,7 +42,7 @@ Security vulnerability research and responsible disclosure reports.
 
 | Directory | Description |
 |-----------|-------------|
-| `Report Bug PatchStack/` | Broken Access Control — WooCommerce plugin (Patchstack) |
+| `Report Bug PatchStack/` | Broken Access Control — WooCommerce, undisclosed CRM, and Motors plugins (Patchstack) |
 | `Report Bug Telegram/` | Security research on Telegram for Android |
 | `Report Bug IUH/` | Vulnerability report submitted to IUH |
 
