@@ -76,9 +76,9 @@ Validation and report-processing confirmation provided by **Patchstack**.
 
 ## Summary
 
-A Broken Access Control vulnerability was identified in the **Motors – Car Dealership & Classified Listings Plugin** WordPress plugin. The affected version range is withheld until public disclosure is authorized.
+A Broken Access Control vulnerability was identified in the **Motors – Car Dealership & Classified Listings Plugin** WordPress plugin (affected versions **<= 1.4.129**).
 
-The vulnerability report was submitted to **Patchstack** and has been **validated**. Patchstack confirmed that the report is being processed and that the vendor will be contacted where applicable so the issue can be patched.
+The vulnerability report was submitted to **Patchstack**, validated, and is now **published to the public Patchstack vulnerability database**.
 
 ## Vulnerability Details
 
@@ -86,10 +86,11 @@ The vulnerability report was submitted to **Patchstack** and has been **validate
 | --- | --- |
 | Vulnerability type | Broken Access Control |
 | Affected component | Motors – Car Dealership & Classified Listings Plugin |
-| Affected versions | Withheld pending disclosure |
+| Affected versions | <= 1.4.129 |
 | Reporting platform | Patchstack |
-| Report status | Validated; processing |
-| Disclosure status | Pending public disclosure |
+| Report status | Published |
+| Disclosure status | Publicly Disclosed |
+| Database entry | [Patchstack Database Entry](https://patchstack.com/database/wordpress/plugin/motors-car-dealership-classified-listings/vulnerability/wordpress-motors-plugin-1-4-128-broken-access-control-vulnerability) |
 
 ## Reproduction Environment
 
@@ -97,14 +98,14 @@ Testing was performed in a private, isolated lab environment. Hostnames, interna
 
 ## Research Contribution
 
-- Discovered and reported a Broken Access Control vulnerability affecting a WordPress plugin.
-- Submitted the finding through Patchstack's vulnerability reporting process.
-- Received confirmation that the report was validated and is being processed for vendor coordination and remediation, where applicable.
+- Discovered and reported a Broken Access Control vulnerability affecting the Motors WordPress plugin.
+- Submitted the finding through Patchstack's coordinated disclosure process.
+- Report validated and published to the global vulnerability database.
 
 ## Disclosure Notice
 
-This finding is **pending public disclosure**. Technical reproduction steps and PoC details are intentionally omitted until disclosure is authorized.
+Published to the Patchstack vulnerability database. Technical reproduction steps and PoC exploit scripts remain restricted.
 
 ## Acknowledgement
 
-Validation and report-processing confirmation provided by **Patchstack**.
+Validation, coordination, and database publication provided by **Patchstack**.
