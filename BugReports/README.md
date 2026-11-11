@@ -6,20 +6,12 @@ Security vulnerability research and responsible disclosure reports.
 
 ## Findings
 
-### Upsell Order Bump Offer for WooCommerce
-| ID | Vulnerability Type | Severity | Platform | Status |
-|---|---|---|---|---|
-| — | Broken Access Control | Medium | Patchstack | Validated |
-
-### Undisclosed Commercial WordPress CRM Plugin
-| ID | Vulnerability Type | Severity | Platform | Status |
-|---|---|---|---|---|
-| — | Broken Access Control | Medium | Patchstack | Validated |
-
-### Motors – Car Dealership & Classified Listings Plugin
-| ID | Vulnerability Type | Severity | Platform | Status |
-|---|---|---|---|---|
-| CVE-2026-123468 | Broken Access Control (<= 1.4.128, patched in 1.4.129) | 4.3 Medium | Patchstack | Published ([Database Entry](https://patchstack.com/database/wordpress/plugin/motors-car-dealership-classified-listings/vulnerability/wordpress-motors-plugin-1-4-128-broken-access-control-vulnerability)) |
+### WordPress Ecosystem (Patchstack / Wordfence)
+| CVE ID | Vulnerability Type | Target Plugin & Affected Versions | CVSS | Platform | Status |
+|---|---|---|---|---|---|
+| **CVE-2026-119514** | Privilege Escalation / Broken Access Control | **RepairBuddy – Repair Shop CRM** (<= 4.1234) | 6.3 Medium | Patchstack / Wordfence | Published |
+| **CVE-2026-123468** | Broken Access Control (CWE-862) | **Motors – Car Dealership & Classified Listings** (<= 1.4.128, patched in 1.4.129) | 4.3 Medium | Patchstack / Wordfence | Published |
+| **CVE-2026-115431** | Broken Access Control (CWE-862) | **Upsell Funnel Builder for WooCommerce** (<= 3.1.6) | 4.3 Medium | Patchstack / Wordfence | Published |
 
 ### Telegram for Android
 | ID | Vulnerability Type | Severity | Platform | Status |
@@ -30,7 +22,7 @@ Security vulnerability research and responsible disclosure reports.
 ### IUH
 | ID | Vulnerability Type | Severity | Platform | Status |
 |---|---|---|---|---|
-| IUH-01 | Reflected XSS | Medium (6.9) | IUH | Validated |
+| IUH-01 | Reflected client-side DOM sink injection | Medium (6.9) | IUH | Validated |
 | IUH-02 | Sensitive Credential Leak (Gitleaks) | High (8.7) | IUH | Validated |
 | IUH-03 | Sensitive File Exposure | High (8.7) | IUH | Validated |
 
@@ -40,10 +32,10 @@ Security vulnerability research and responsible disclosure reports.
 
 | Directory | Description |
 |-----------|-------------|
-| `Report Bug PatchStack/` | Broken Access Control — WooCommerce, undisclosed CRM, and Motors plugins (Patchstack) |
+| `Report Bug PatchStack/` | Broken Access Control & Privilege Escalation (CVE-2026-119514, CVE-2026-123468, CVE-2026-115431) |
 | `Report Bug Telegram/` | Security research on Telegram for Android |
 | `Report Bug IUH/` | Vulnerability report submitted to IUH |
 
 ---
 
-> All technical details, PoC, and reproduction steps are withheld pending authorized disclosure.
+> All technical reproduction steps, PoC exploit scripts, and further evidence are withheld pending authorized disclosure.

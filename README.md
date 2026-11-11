@@ -18,11 +18,12 @@ Comprehensive index of academic publications, vulnerability disclosure results, 
 ---
 
 ## 💥 Security Vulnerability Disclosures
-- **[CVE-2026-123468](https://patchstack.com/database/wordpress/plugin/motors-car-dealership-classified-listings/vulnerability/wordpress-motors-plugin-1-4-128-broken-access-control-vulnerability)**: Broken Access Control in *Motors — Car Dealership & Classified Listings* plugin (Patchstack Database)
-- **Patchstack**: 2 additional validated Broken Access Control findings (WooCommerce, Commercial CRM)
+- **[CVE-2026-119514](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/zhugez)**: Privilege Escalation & Broken Access Control in *RepairBuddy CRM* (CVSS 6.3)
+- **[CVE-2026-123468](https://patchstack.com/database/wordpress/plugin/motors-car-dealership-classified-listings/vulnerability/wordpress-motors-plugin-1-4-128-broken-access-control-vulnerability)**: Broken Access Control in *Motors — Car Dealership & Classified Listings* plugin (CVSS 4.3)
+- **[CVE-2026-115431](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/zhugez)**: Broken Access Control in *Upsell Funnel Builder for WooCommerce* (CVSS 4.3)
 - **Telegram for Android**: 2 high-severity findings pending resolve (TG-01, TG-02)
 - **IUH Academic System**: 3 validated findings (Credential leak 8.7, File exposure 8.7, Reflected XSS 6.9)
-- *Full details in [`BugReports/`](./BugReports/README.md)*
+- *Full reports in [`BugReports/`](./BugReports/README.md)*
 
 ---
 
