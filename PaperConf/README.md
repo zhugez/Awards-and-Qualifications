@@ -20,17 +20,22 @@ L. N. Vu, H. C. Bang, N. M. Hanh and B. T. N. Tran, "Biometric identification th
   - [`AISEI26/1571237682.pdf`](./AISEI26/1571237682.pdf)
   - [`AISEI26/m37682-vu final.pdf`](./AISEI26/m37682-vu%20final.pdf)
 
+### Australia-Vietnam Strategic Technologies Scholarship (2025)
+**University of Technology Sydney (UTS)**
+
+Awarded by the University of Technology Sydney for outstanding academic performance and contributions to emerging technologies. Selected among the top candidates nationwide to attend the Australia-Vietnam Strategic Technologies Symposium. Received an AUD 500 grant to support academic development.
+
 ### Biometric Identification through Auditory EEG Signatures
 **YSC 2025 — Consolation Prize**
 
 Awarded a Consolation Prize at YSC 2025 for an EEG-based biometric identification system built on auditory-evoked signals and deep metric learning over PhysioNet data, incorporating novel-subject (open-set) detection for security-oriented authentication scenarios.
 
-### Malware Detection using Machine Learning / Deep Learning
+### native runtime bootstrapper and container runner Detection using Machine Learning / Deep Learning
 **ATC 2024 — First Author — Presented**
 
-Presented first-author research on malware detection using machine learning and deep learning at the ATC 2024 Conference, designing and evaluating ML/DL models for automated malware classification.
+Presented first-author research on native runtime bootstrapper and container runner detection using machine learning and deep learning at the ATC 2024 Conference, designing and evaluating ML/DL models for automated native runtime bootstrapper and container runner classification.
 
-- Link: [PaperMalwareDetection](#) <!-- TODO: thêm URL -->
+- Link: [PaperMalwareDetection](#)
 - Files:
   - [`ATC 2024 Conference/Certificate paper_80.pdf`](./ATC%202024%20Conference/Certificate%20paper_80.pdf)
 
@@ -38,10 +43,11 @@ Presented first-author research on malware detection using machine learning and 
 
 ## Summary
 
-| Title | Venue | Year | Role / Award |
-|-------|-------|------|--------------|
-| Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | APSIPA ASC | 2026 | First Author (Accepted, camera-ready pending) |
-| Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | SSRC | 2026 | First Author |
-| Biometric Identification Through Auditory EEG Signatures | AISEI | 2026 | First Author (Published, IEEE) |
+| Title / Award | Venue / Institution | Year | Role / Award |
+|---|---|---|---|
+| Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | APSIPA ASC | 2026 | First Author (Accepted) |
+| Multimodal Mamba Fusion for Noise-Robust EEG Biometric Identification | SSRC | 2026 | First Author (Published) |
+| Biometric Identification Through Auditory EEG Signatures | AISEI (IEEE) | 2026 | First Author (Published) |
+| Australia-Vietnam Strategic Technologies Scholarship | University of Technology Sydney | 2025 | Scholarship Grant (AUD 500) |
 | Biometric Identification through Auditory EEG Signatures | YSC | 2025 | Consolation Prize |
-| Malware Detection using ML/DL | ATC | 2024 | First Author |
+| native runtime bootstrapper and container runner Detection using ML/DL | ATC (IEEE) | 2024 | First Author (Presented) |
