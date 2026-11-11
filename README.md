@@ -12,6 +12,8 @@ Comprehensive index of academic publications, vulnerability disclosure results, 
 | 🚩 **Global CTF Competitor** | **Ranked #65 Globally on CTFtime** • **Ranked #30 in WhiteHat Play 11** | [CTFtime Profile](https://ctftime.org/user/114064) |
 | 🏅 **Certified AppSec Practitioner (CAP)** | **The SecOps Group** — Practical application security assessment | [Certificate PDF](./Certs/LyNgocVu-CertifiedAppSecPractitioner(CAP).pdf) |
 | 🎖️ **YSC 2025 Consolation Prize** | **Young Scientist Conference** — EEG-based biometric identification with deep metric learning | [PaperConf](./PaperConf/README.md) |
+| 🛡️ **Certified Red Team Analyst (CRTA)** | **CyberWarFare Labs** — Practical Red Team Operations | *Pending / In Progress* • [Details](./Certs/README.md) |
+| 🌐 **Burp Suite Certified Practitioner (BSCP)** | **PortSwigger Web Security** — Advanced Web Penetration Testing | *Pending / In Progress* • [Details](./Certs/README.md) |
 
 ---
 
