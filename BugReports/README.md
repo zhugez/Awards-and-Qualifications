@@ -19,7 +19,7 @@ Security vulnerability research and responsible disclosure reports.
 ### Motors – Car Dealership & Classified Listings Plugin
 | ID | Vulnerability Type | Severity | Platform | Status |
 |---|---|---|---|---|
-| — | Broken Access Control (<= 1.4.129) | Medium | Patchstack | Published ([Database Entry](https://patchstack.com/database/wordpress/plugin/motors-car-dealership-classified-listings/vulnerability/wordpress-motors-plugin-1-4-128-broken-access-control-vulnerability)) |
+| CVE-2026-123467 | Broken Access Control (<= 1.4.128) | 4.3 Medium | Patchstack | Published ([Database Entry](https://patchstack.com/database/wordpress/plugin/motors-car-dealership-classified-listings/vulnerability/wordpress-motors-plugin-1-4-128-broken-access-control-vulnerability)) |
 
 ### Telegram for Android
 | ID | Vulnerability Type | Severity | Platform | Status |
