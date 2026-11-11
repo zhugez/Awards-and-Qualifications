@@ -72,23 +72,29 @@ Validation and report-processing confirmation provided by **Patchstack**.
 
 ---
 
-# Broken Access Control in Motors – Car Dealership & Classified Listings Plugin (CVE-2026-123467)
+# Broken Access Control in Motors – Car Dealership & Classified Listings Plugin (CVE-2026-123468)
 
 ## Summary
 
-A Broken Access Control (Missing Authorization) vulnerability was identified in the **Motors – Car Dealership & Classified Listings Plugin** WordPress plugin (affected versions **<= 1.4.128**, fixed in **1.4.129**).
+A Broken Access Control (Missing Authorization / OWASP A1) vulnerability was identified in the **Motors – Car Dealership & Classified Listings Plugin** WordPress plugin by StylemixThemes (affected versions **<= 1.4.128**, fixed in **1.4.129**).
 
-The vulnerability report was submitted to **Patchstack**, validated, assigned **CVE-2026-123467**, and is now **published to the public Patchstack vulnerability database**.
+The vulnerability report was submitted to **Patchstack**, validated, assigned **CVE-2026-123468** (PSID: `fd60a8f0fc16`), and is now published to the public Patchstack vulnerability database.
 
 ## Vulnerability Details
 
 | Field | Details |
 | --- | --- |
-| CVE ID | **CVE-2026-123467** |
-| Vulnerability type | Broken Access Control (CWE-862) |
+| CVE ID | **CVE-2026-123468** |
+| PSID | `fd60a8f0fc16` |
+| Vulnerability type | Broken Access Control (CWE-862 / OWASP A1) |
 | Affected component | Motors – Car Dealership & Classified Listings Plugin |
-| Affected versions | <= 1.4.128 (Fixed in 1.4.129) |
+| Developer | StylemixThemes |
+| Affected versions | <= 1.4.128 |
+| Patched version | 1.4.129 |
 | CVSS Score | 4.3 (Medium) |
+| Required privilege | Subscriber |
+| Credits | zhugez |
+| Published date | 7 Nov, 2026 |
 | Reporting platform | Patchstack |
 | Report status | Published |
 | Disclosure status | Publicly Disclosed |
