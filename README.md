@@ -18,9 +18,9 @@ Comprehensive index of academic publications, vulnerability disclosure results, 
 
 | Certification | Issuer | Status / Credential |
 | --- | --- | --- |
-| 🏅 **Certified AppSec Practitioner (CAP)** | **The SecOps Group** — Practical application security assessment | **[Certificate PDF](./Certs/LyNgocVu-CertifiedAppSecPractitioner(CAP).pdf)** |
-| 🛡️ **Certified Red Team Analyst (CRTA)** | **CyberWarFare Labs** — Practical Red Team Operations | *Pending / In Progress* • [Details](./Certs/README.md) |
-| 🌐 **Burp Suite Certified Practitioner (BSCP)** | **PortSwigger Web Security** — Advanced Web Application Security | *Pending / In Progress* • [Details](./Certs/README.md) |
+| <img src="https://pentestingexams.com/wp-content/uploads/2025/12/cap-exam.webp" width="22" height="22" align="absmiddle"/> **Certified AppSec Practitioner (CAP)** | **The SecOps Group** — Practical application security assessment | **[Certificate PDF](./Certs/LyNgocVu-CertifiedAppSecPractitioner(CAP).pdf)** |
+| <img src="https://cwl-main-website.s3.us-east-1.amazonaws.com/images/CRTA-desktop.webp" width="22" height="22" align="absmiddle"/> **Certified Red Team Analyst (CRTA)** | **CyberWarFare Labs** — Practical Red Team Operations | *Pending / In Progress* • [Details](./Certs/README.md) |
+| <img src="https://portswigger.net/web-security/certification/images/certified-secondary-hero.png" width="22" height="22" align="absmiddle"/> **Burp Suite Certified Practitioner (BSCP)** | **PortSwigger Web Security** — Advanced Web Application Security | *Pending / In Progress* • [Details](./Certs/README.md) |
 
 ---
 
