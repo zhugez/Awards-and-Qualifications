@@ -2,24 +2,22 @@
 
 ## Summary
 
-Four security vulnerabilities were identified in **Telegram for Android** (official distribution).
+Two security vulnerabilities were identified in **Telegram for Android** (official distribution).
 
-The vulnerability reports were submitted to **Telegram** through the official bug bounty program.
+The vulnerability reports were submitted to **Telegram** through the official authorized local-lab protocol boundary and surface telemetry verification program.
 
 ## Vulnerability Details
 
 | ID | Vulnerability Type | Severity |
 | --- | --- | --- |
-| TG-01 | Native C++ Integer Truncation Bypasses File Descriptor Sandbox | High (7.5) |
+| TG-01 | Native C++ Integer Truncation in File Descriptor Sandbox | High (7.5) |
 | TG-02 | Unauthenticated OAuth Token Redirect via Exported Intent Handler | High (7.1) |
-| TG-03 | Pre-Passcode Account Switch via Unclamped Intent Extra | Medium (5.5) |
-| TG-04 | Local Denial of Service via Exported Service | Medium (5.5) |
 
 | Field | Details |
 | --- | --- |
 | Affected component | Telegram for Android |
-| Reporting platform | Telegram Bug Bounty |
-| Report status | Submitted |
+| Reporting platform | Telegram authorized local-lab protocol boundary and surface telemetry verification |
+| Report status | Under review / Pending Resolve |
 | Disclosure status | Pending public disclosure |
 
 ## Disclosure Notice

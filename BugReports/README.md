@@ -24,10 +24,8 @@ Security vulnerability research and responsible disclosure reports.
 ### Telegram for Android
 | ID | Vulnerability Type | Severity | Platform | Status |
 |---|---|---|---|---|
-| TG-01 | Native C++ Integer Truncation — File Descriptor Sandbox Bypass | High (7.5) | Telegram Bug Bounty | Submitted |
-| TG-02 | Unauthenticated OAuth Token Redirect via Exported Intent | High (7.1) | Telegram Bug Bounty | Submitted |
-| TG-03 | Pre-Passcode Account Switch via Unclamped Intent Extra | Medium (5.5) | Telegram Bug Bounty | Submitted |
-| TG-04 | Local Denial of Service via Exported Service | Medium (5.5) | Telegram Bug Bounty | Submitted |
+| TG-01 | Native C++ Integer Truncation — File Descriptor Sandbox Verification | High (7.5) | Telegram Bug Bounty | Pending Resolve |
+| TG-02 | Unauthenticated OAuth Token Redirect via Exported Intent | High (7.1) | Telegram Bug Bounty | Pending Resolve |
 
 ### IUH
 | ID | Vulnerability Type | Severity | Platform | Status |
